@@ -63,6 +63,10 @@ function clearForm() {
 			<input type="submit" name="prodaction" value="Select">
 			<input type="button" value="Clear" onclick="clearForm()">
 		</td>
+		
+		<td>
+		<input type="submit" name="prodaction" value="Select">
+		</td>
 	</tr>
 </table>
 
